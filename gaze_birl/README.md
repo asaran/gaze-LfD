@@ -1,4 +1,4 @@
-# Code for Gaze-augmented BIRL.
+# Code for Gaze-augmented BIRL
 
 Since the data for the user study cannot be released under IRB restrictions, we provide a dummy text file to load the data for gaze-augmented BIRL. Normalized object locations for 5 demonstrations are loaded from `objects.txt`. 
 
